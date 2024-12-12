@@ -1,0 +1,1 @@
+# iBeacon Location Prediction\n\nIndoor location prediction using iBeacon RSSI data with multiple machine learning models.\n\n## Features\n- Multiple model implementations\n- Comprehensive performance metrics\n- Enhanced visualizations\n- Detailed comparison analysis
